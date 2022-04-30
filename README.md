@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/RealLanta/lantawrt-cr6608/LantaWrt_Logo.png" alt="Clash" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/RealLanta/lantawrt-cr6608/LantaWrt_Logo.png" alt="LantaWrt-CR6608" width="200">
   <br>LantaWrt-CR6608<br>
 
 </h1>
@@ -48,5 +48,5 @@ LantaWrt的资源占用非常低
 
 LantaWrt的源编译文件是开放的，你可以Clone仓库直接开始编译
 
-[查看编译文档](https://github.com/RealLanta/lantawrt-cr6608/compile.md)
+[查看编译文档](https://github.com/RealLanta/lantawrt-cr6608/blob/master/compile.md)
 
