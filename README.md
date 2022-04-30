@@ -8,7 +8,7 @@
     <a target="_blank" href="https://github.com/coolsnowwolf/lede">
     <img src="https://img.shields.io/badge/OpenWrt(LEDE) Kernel-r4491--d5622e353-blue">
   </a>
-  <a target="_blank" href="https://github.com/RealLanta/lantawrt-cr6608/">
+  <a target="_blank" href="https://github.com/RealLanta/lantawrt-cr6608/tree/0.1">
     <img src="https://img.shields.io/badge/source code-v0.1--beta-green.svg">
   </a>
   <a target="_blank" href="https://github.com/RealLanta/lantawrt-cr6608/releases">
