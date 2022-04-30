@@ -44,7 +44,7 @@ LantaWrt的资源占用非常低，默认情况下开启V2ray(WS+TLS)内存占�
 
 ## 美观
 
-如果你不喜欢自带的Bootstrap主题，你还可以使用自带的[Argon](https://github.com/jerrykuku/luci-theme-argon)主题，高雅而美观
+默认使用[Argon](https://github.com/jerrykuku/luci-theme-argon)主题，高雅而美观
 
 ![](https://cdn.jsdelivr.net/gh/RealLanta/lantawrt-cr6608/doc/2022-04-30_13-27.png)
 
