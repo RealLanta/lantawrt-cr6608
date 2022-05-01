@@ -53,7 +53,7 @@ LantaWrt的资源占用非常低，默认情况下开启V2ray(WS+TLS)内存占�
 
 - 增加了[Hello World](https://github.com/jerrykuku/luci-app-vssr)（默认开启SSR、SS、V2ray、VLESS、Trojan的支持）
 - 增加了Adbyby Plus+
-- 增加了解锁~~网抑云~~灰色歌曲
+- ~~增加了解锁网抑云灰色歌曲~~（考虑到该功能实用性不高为了节省系统资源已移除）
 - 增加了网络唤醒
 - 增加了动态DNS
 - 增加了KMS服务器
