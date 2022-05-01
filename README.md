@@ -33,13 +33,13 @@
 
 ## 纯洁
 
-LantaWrt非常的纯洁，只保留了最基本的功能
+LantaWrt-CR6608非常的纯洁，只保留了最基本的功能
 
 ![](https://cdn.jsdelivr.net/gh/RealLanta/lantawrt-cr6608/doc/2022-04-30_13-30.png)
 
 ## 轻量
 
-LantaWrt的资源占用非常低，默认情况下开启V2ray(WS+TLS)内存占用仅120M
+LantaWrt-CR6608的资源占用非常低，默认情况下开启V2ray(WS+TLS)内存占用仅120M
 
 ![](https://cdn.jsdelivr.net/gh/RealLanta/lantawrt-cr6608/doc/2022-04-30_13-26.png)
 
