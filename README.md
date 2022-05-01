@@ -16,7 +16,7 @@
   </a>
   </p>
 
-  
+
 
 <p align="center">
 纯洁·轻量·美观
@@ -27,7 +27,7 @@
 
 已经编译好的固件请直接前往[Releases](https://github.com/jerrykuku/luci-app-vssr/releases)下载
 
-默认登陆IP 192.168.1.1 密码 password
+默认登陆IP 192.168.87.1 密码 password
 
 # 功能介绍
 
