@@ -60,23 +60,9 @@ LantaWrt-CR6608的资源占用非常低，默认情况下开启V2ray(WS+TLS)内�
 - 增加了htop（方便查看系统占用）
 - 默认开启iPv6Helper
 
-# 刷机方法
+# Wiki文档
 
-## 第一种
+目前使用方法、疑难解答都已经搬到了Wiki中！
 
-直接在pb-boot中刷入`openwrt-ramips-mt7621-xiaomi_mi-router-cr660x-squashfs-factory.bin`就可以了，不需要刷入升级包之类的就可以使用
-
-## 第二种
-
-首先在pb-boot刷入`openwrt-ramips-mt7621-xiaomi_mi-router-cr660x-initramfs-kernel.bin`
-
-进入系统后进入菜单`系统->备份/升级`
-
-在下面的`刷写新的固件`**去掉**“保留配置”的勾选，并选择`openwrt-ramips-mt7621-xiaomi_mi-router-cr660x-squashfs-sysupgrade.bin`刷入
-
-# 自编译
-
-LantaWrt的源编译文件是开放的，你可以Clone仓库直接开始编译
-
-[查看编译文档](https://github.com/RealLanta/lantawrt-cr6608/blob/master/compile.md)
+https://github.com/RealLanta/lantawrt-cr6608/wiki
 
