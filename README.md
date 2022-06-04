@@ -49,16 +49,6 @@ LantaWrt-CR6608的资源占用非常低，默认情况下开启V2ray(WS+TLS)内�
 
 ![](https://cdn.jsdelivr.net/gh/RealLanta/lantawrt-cr6608/doc/2022-04-30_13-27.png)
 
-## 更改
-
-- 增加了[Hello World](https://github.com/jerrykuku/luci-app-vssr)（默认开启SSR、SS、V2ray、VLESS、Trojan的支持）
-- 增加了Adbyby Plus+
-- ~~增加了解锁网抑云灰色歌曲~~（考虑到该功能实用性不高为了节省系统资源已移除）
-- 增加了网络唤醒
-- 增加了动态DNS
-- 增加了KMS服务器
-- 增加了htop（方便查看系统占用）
-- 默认开启iPv6Helper
 
 # Wiki文档
 
