@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/OpenWrt(LEDE) Kernel-r4491--d5622e353-blue">
   </a>
   <a target="_blank" href="https://github.com/RealLanta/lantawrt-cr6608/tree/0.4">
-    <img src="https://img.shields.io/badge/source code-v0.4-green.svg">
+    <img src="https://img.shields.io/badge/source code-v0.4-green.svg">a
   </a>
   <a target="_blank" href="https://github.com/RealLanta/lantawrt-cr6608/releases">
     <img src="https://img.shields.io/badge/New Release-v0.4-orange.svg">
@@ -25,7 +25,7 @@
 本固件基于<a href="https://github.com/coolsnowwolf/lede">LEDE</a>编译、修改
 </p>
 
-已经编译好的固件请直接前往[Releases](https://github.com/jerrykuku/luci-app-vssr/releases)下载
+已经编译好的固件请直接前往[Releases](https://github.com/RealLanta/lantawrt-cr6608/releases)下载
 
 默认登陆IP 192.168.87.1 密码 password
 
